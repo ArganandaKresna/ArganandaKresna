@@ -9,8 +9,8 @@
 ### `> cd ~/my_identity.yaml`
 ```yaml
 - [STATUS: IDENTITY]      > Argananda Putra Tyaskresna Dwisetya
-- [STATUS: AFFILIATION]   > Student at Universitas Airlangga
-- [STATUS: FOCUS]         > Robotics | AI | Control Systems | IoT
+- [STATUS: AFFILIATION]   > Undergraduate Student at Universitas Airlangga
+- [STATUS: FOCUS]         > Robotics | Artificial Intelligence | IoT | Control Systems
 - [STATUS: GOAL]          > Designing intelligent embedded AI systems that empower humans.
 ```
 
@@ -18,7 +18,7 @@
 > ls /core_systems
 Languages and Tools:
 ```
-[![My Skills](https://skillicons.dev/icons?i=python,cpp,c,arduino,tensorflow,opencv,sklearn,nodejs,react,express&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,c,sql,postgresql,java,javascript,arduino,tensorflow,opencv,sklearn,git,nodejs,react,express&theme=dark)](https://skillicons.dev)
 
 ```yaml
 > query --active_missions
