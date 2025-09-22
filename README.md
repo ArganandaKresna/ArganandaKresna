@@ -18,7 +18,7 @@
 > ls /core_systems
 Languages and Tools:
 ```
-[![My Skills](https://skillicons.dev/icons?i=python,cpp,c,sql,postgresql,java,javascript,arduino,tensorflow,opencv,sklearn,git,nodejs,react,express&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,c,docker,postgresql,java,javascript,arduino,tensorflow,opencv,sklearn,git,nodejs,react,express&theme=dark)](https://skillicons.dev)
 
 ```yaml
 > query --active_missions
